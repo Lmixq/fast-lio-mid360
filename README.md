@@ -26,15 +26,15 @@
 <!-- ![image](doc/real_experiment2.gif) -->
 <!-- [![Watch the video](doc/real_exp_2.png)](https://youtu.be/2OvjGnxszf8) -->
 <div align="left">
-<img src="doc/real_experiment2.gif" width=49.6% />
-<img src="doc/ulhkwh_fastlio.gif" width = 49.6% >
+<!-- <img src="doc/real_experiment2.gif" width=49.6% /> -->
+<!-- <img src="doc/ulhkwh_fastlio.gif" width = 49.6% > -->
 </div>
 
 **Related video:**  [FAST-LIO2](https://youtu.be/2OvjGnxszf8),  [FAST-LIO1](https://youtu.be/iYCY6T79oNU)
 
 **Pipeline:**
 <div align="center">
-<img src="doc/overview_fastlio2.svg" width=99% />
+<!-- <img src="doc/overview_fastlio2.svg" width=99% /> -->
 </div>
 
 **New Features:**
@@ -220,8 +220,8 @@ Set ``` pcd_save_enable ``` in launchfile to ``` 1 ```. All the scans (in global
 ## 4. Rosbag Example
 ### 4.1 Livox Avia Rosbag
 <div align="left">
-<img src="doc/results/HKU_LG_Indoor.png" width=47% />
-<img src="doc/results/HKU_MB_002.png" width = 51% >
+<!-- <img src="doc/results/HKU_LG_Indoor.png" width=47% /> -->
+<!-- <img src="doc/results/HKU_MB_002.png" width = 51% > -->
 
 Files: Can be downloaded from [google drive](https://drive.google.com/drive/folders/1CGYEJ9-wWjr8INyan6q1BZz_5VtGB-fP?usp=sharing)
 
@@ -250,8 +250,8 @@ In order to validate the robustness and computational efficiency of FAST-LIO in 
 The main structure of this UAV is 3d printed (Aluminum or PLA), the .stl file will be open-sourced in the future.
 
 <div align="center">
-    <img src="doc/uav01.jpg" width=40.5% >
-    <img src="doc/uav_system.png" width=57% >
+    <!-- <img src="doc/uav01.jpg" width=40.5% > -->
+    <!-- <img src="doc/uav_system.png" width=57% > -->
 </div>
 
 ## 6.Acknowledgments
